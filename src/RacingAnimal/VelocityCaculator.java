@@ -22,6 +22,7 @@ public class VelocityCaculator {
                 max = animal.getAnimalVelocity();
                 count++;
             }
+
         }
         System.out.println("Winner is: " + animals.get(count - 1).getClass().getSimpleName() + " with speed:" + max + "km/h");
     }
