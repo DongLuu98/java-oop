@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90524159-a99a-4676-a5a0-053ea989bbdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson7/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson7/VelocityCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-oop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson7/BookMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Horse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/Tiger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/VelocityCaculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/RacingAnimal/VelocityCaculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RacingAnimal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RacingAnimal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RacingAnimal/VelocityCaculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RacingAnimal/VelocityCaculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +43,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.VelocityCalculator">
+  <component name="RunManager" selected="Application.BookMenu">
+    <configuration name="BookMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseLesson7.BookMenu" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciseLesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VelocityCaculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RacingAnimal.VelocityCaculator" />
       <module name="java-oop" />
@@ -82,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookMenu" />
         <item itemvalue="Application.VelocityCalculator" />
         <item itemvalue="Application.VelocityCaculator" />
       </list>
