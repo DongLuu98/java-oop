@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90524159-a99a-4676-a5a0-053ea989bbdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson7/BookMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Falcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Squirrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseLesson8/VelocityCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/ExerciseLesson7/Animal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +42,31 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.BookMenu">
+  <component name="RunManager" selected="Application.CalculatorVelocity">
     <configuration name="BookMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseLesson7.BookMenu" />
       <module name="java-oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExerciseLesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorVelocity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseLesson8.CalculatorVelocity" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciseLesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorVelocity" />
         <item itemvalue="Application.BookMenu" />
         <item itemvalue="Application.VelocityCalculator" />
         <item itemvalue="Application.VelocityCaculator" />
